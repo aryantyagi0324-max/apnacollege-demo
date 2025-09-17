@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repo
 <br>
-Author - Aryan tyagi
+Author - Aryan tyagi(aadi)
